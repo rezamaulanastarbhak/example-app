@@ -14,7 +14,6 @@ def lingkaran(jari2):
 
 # Halaman Utama
 st.title('Aplikasi Perhitungan Luas Bangun Datar')
-st.title('Buatan anak SI')
 
 # Sidebar navigasi
 menu = st.sidebar.selectbox('Menu', ['Luas Persegi', 'Luas Segitiga', 'Luas Lingkaran'])
